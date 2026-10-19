@@ -39,7 +39,7 @@
   <use href="#apple" x="720" y="-30" opacity="0.5">
     <animateTransform attributeName="transform" type="translate" values="0 0;-20 360" dur="11s" begin="0.5s" repeatCount="indefinite"/>
   </use>
-  <text x="60" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" fill="#f2f2f2" letter-spacing="2">SAMUEL ISAAC
+  <text x="60" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" fill="#f2f2f2" letter-spacing="2">ENRIQUE SOZA
     <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
   </text>
   <text x="60" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#e50914" letter-spacing="8">DAM &#183; DEVELOPER
