@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.6" stop-color="#14040a"/>
+      <stop offset="1" stop-color="#2a0510"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e50914" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#e50914" stop-opacity="0"/>
+    </radialGradient>
+    <g id="apple">
+      <path d="M0 -6 C-10 -14 -22 -4 -18 10 C-15 22 -6 26 0 22 C6 26 15 22 18 10 C22 -4 10 -14 0 -6Z" fill="#c1121f"/>
+      <path d="M0 -6 C0 -12 3 -17 8 -19" stroke="#3b2a1a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <path d="M3 -13 C9 -20 16 -16 12 -12 C9 -10 5 -11 3 -13Z" fill="#2f6b2f"/>
+      <ellipse cx="-8" cy="2" rx="3" ry="6" fill="#fff" opacity="0.25"/>
+    </g>
+  </defs>
+  <rect width="1000" height="300" fill="url(#bg)"/>
+  <ellipse cx="500" cy="150" rx="420" ry="140" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <g transform="translate(790 60) rotate(8)">
+    <rect x="0" y="0" width="150" height="190" rx="6" fill="#0b0b0b" stroke="#e50914" stroke-width="2"/>
+    <rect x="12" y="0" width="6" height="190" fill="#1d1d1d"/>
+    <rect x="35" y="60" width="95" height="70" rx="3" fill="none" stroke="#e8e8e8" stroke-width="1.5" opacity="0.8"/>
+    <text x="82" y="92" font-family="Georgia, serif" font-size="16" fill="#e8e8e8" text-anchor="middle" letter-spacing="3">NOTE</text>
+    <text x="82" y="114" font-family="Georgia, serif" font-size="10" fill="#e50914" text-anchor="middle" letter-spacing="4">DEV</text>
+  </g>
+  <use href="#apple" x="90" y="-30" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0;40 360" dur="7s" repeatCount="indefinite"/>
+  </use>
+  <use href="#apple" x="260" y="-30" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-30 360" dur="9s" begin="1.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#apple" x="610" y="-30" opacity="0.8">
+    <animateTransform attributeName="transform" type="translate" values="0 0;25 360" dur="8s" begin="3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#apple" x="720" y="-30" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-20 360" dur="11s" begin="0.5s" repeatCount="indefinite"/>
+  </use>
+  <text x="60" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" fill="#f2f2f2" letter-spacing="2">SAMUEL ISAAC
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+  </text>
+  <text x="60" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#e50914" letter-spacing="8">DAM &#183; DEVELOPER
+    <animate attributeName="opacity" values="0;1" dur="1.5s" begin="0.8s" fill="freeze"/>
+  </text>
+  <text x="60" y="225" font-family="'Courier New', monospace" font-size="16" fill="#b0b0b0">&gt; escribe tu c&#243;digo como si el mundo dependiera de &#233;l_
+    <animate attributeName="opacity" values="0;1" dur="1.5s" begin="1.6s" fill="freeze"/>
+  </text>
+  <rect x="60" y="195" width="260" height="2" fill="#e50914">
+    <animate attributeName="width" values="0;260" dur="1.6s" begin="0.5s" fill="freeze"/>
+  </rect>
+</svg>
