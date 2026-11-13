@@ -39,12 +39,4 @@ CENTRO   : IES Albarregas
 
 </div>
 
-## 📊 Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eeliazar17-hue&show_icons=true&theme=dark&bg_color=0b0b0b&title_color=e50914&icon_color=e50914&text_color=f2f2f2&border_color=e50914" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeliazar17-hue&layout=compact&theme=dark&bg_color=0b0b0b&title_color=e50914&text_color=f2f2f2&border_color=e50914" />
-
-</div>
 
