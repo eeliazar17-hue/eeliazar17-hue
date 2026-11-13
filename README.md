@@ -11,7 +11,7 @@
 ![Instituto](https://img.shields.io/badge/IES_Albarregas-DAM_1A-e50914?style=for-the-badge&labelColor=0b0b0b)
 ![Java](https://img.shields.io/badge/Java-e50914?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b0b0b)
 ![HTML5](https://img.shields.io/badge/HTML5-e50914?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b0b0b)
-![CSS3](https://img.shields.io/badge/CSS3-e50914?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b0b0b)
+/*![CSS3](https://img.shields.io/badge/CSS3-e50914?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b0b0b)*/
 ![VS Code](https://img.shields.io/badge/VS_Code-e50914?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0b0b0b)
 ![Git](https://img.shields.io/badge/Git-e50914?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0b0b)
 
@@ -50,8 +50,6 @@ CENTRO   : IES Albarregas
 
 
 <div align="center">
-
-*"Team Deacachimba"* 🖤
 
 <img src="https://komarev.com/ghpvc/?username=eeliazar17-hue&label=Visitas&color=e50914&style=for-the-badge" />
 
