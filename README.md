@@ -22,13 +22,11 @@
 ## 📓 Sobre mí
 
 ```text
-NOMBRE   : Enrique Soza
+
 ESTUDIOS : Desarrollo de Aplicaciones Multiplataforma (1º DAM)
 CENTRO   : IES Albarregas
-ESTADO   : compilando el futuro...
-```
 
-Soy estudiante de **DAM** y me gusta convertir ideas en aplicaciones que sirvan de verdad. Mi norte: aprender cada día un poco más y construir cosas útiles.
+```
 
 ## 🍎 Proyectos en marcha
 
@@ -56,7 +54,6 @@ Soy estudiante de **DAM** y me gusta convertir ideas en aplicaciones que sirvan 
 
 </div>
 
----
 
 <div align="center">
 
