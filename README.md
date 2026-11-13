@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Enrique Soza - DAM Developer" width="100%"/>
+<img src="assets/header.svg" alt="Enrique Soza - DAM" width="100%"/>
 
 <a href="https://github.com/eeliazar17-hue">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=E50914&center=true&vCenter=true&width=700&lines=Estudiante+de+DAM+%F0%9F%8E%93;Aprendiendo+Java+y+bases+de+datos+%E2%98%95;Creando+ChinelaStock+y+Taskify+Desk+%F0%9F%9B%A0%EF%B8%8F;Cada+l%C3%ADnea+de+c%C3%B3digo+cuenta+%F0%9F%96%A4" alt="Typing SVG" />
@@ -60,7 +60,7 @@ Soy estudiante de **DAM** y me gusta convertir ideas en aplicaciones que sirvan 
 
 <div align="center">
 
-*"Un buen programador no escribe código: lo escribe con intención."* 🖤
+*"Team Deacachimba"* 🖤
 
 <img src="https://komarev.com/ghpvc/?username=eeliazar17-hue&label=Visitas&color=e50914&style=for-the-badge" />
 
