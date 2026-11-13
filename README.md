@@ -17,10 +17,6 @@
 
 </div>
 
----
-
-## 📓 Sobre mí
-
 ```text
 
 ESTUDIOS : Desarrollo de Aplicaciones Multiplataforma (1º DAM)
@@ -31,17 +27,15 @@ CENTRO   : IES Albarregas
 ## 🍎 Proyectos en marcha
 
 | Proyecto | Descripción |
-|---|---|
+
 | 🩴 **ChinelaStock** | App para gestionar mi negocio de chinelas: inventario, precios y ventas |
 | ✅ **Taskify Desk** | Gestión de tareas para pequeñas oficinas, desarrollada por fases |
-| 📬 **Aviso Gmail** | App Android que avisa a diario de los correos sin leer |
-| ☕ **Ejercicios de Java** | Prácticas de programación del ciclo DAM |
 
 ## 🛠️ Stack
 
 <div align="center">
 
-![Stack](https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,linux&theme=dark)
+![Stack](https://skillicons.dev/icons?i=java,html,css,vscode)
 
 </div>
 
