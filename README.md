@@ -48,9 +48,3 @@ CENTRO   : IES Albarregas
 
 </div>
 
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=eeliazar17-hue&label=Visitas&color=e50914&style=for-the-badge" />
-
-</div>
